@@ -1,7 +1,6 @@
 # product-website
 COMP 213 - Assignment 4 - Fall 2022
 
-##URL
 [ROG Zephyrus G14](http://studentweb.cencol.ca/akhan604/Week%207/Assignment%203/Assignment3_Aazain.html)
 
 Built to showcase my chosen product, ASUS ROG Zephyrus G14. The website has:
