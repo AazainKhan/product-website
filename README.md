@@ -1,8 +1,6 @@
 # product-website
 COMP 213 - Assignment 4 - Fall 2022
 
-[ROG Zephyrus G14](https://aazainkhan.github.io/product-website/)
-
 Built to showcase my chosen product, ASUS ROG Zephyrus G14. The website has:
 - Product description and features
 - Product images
